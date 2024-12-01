@@ -18,13 +18,15 @@ Este é um projeto desenvolvido em React Native com Expo, que consome uma API de
 
 ## Como Rodar o Projeto
 
-# 1. Clonar o repositório
+# 1. Clonar o repositório react Native
 git clone https://github.com/FlaviaPaloma/React-Native-Hardware-Consumo-de-API.git
+# Clonar o repositório da API
+https://github.com/FlaviaPaloma/API-CADASTRO.git
 
-# 2. Navegar até o diretório da API
+# 2. Navegar até o diretório 
 cd localizador
 
-# 3. Instalar as dependências da API
+# 3. Instalar as dependências 
 npm install
 
 # 4. Rodar a API
